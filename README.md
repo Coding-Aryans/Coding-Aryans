@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Coding-Aryans
+- 👋 Hi, I’m @Coding-Aryans.
 - 👀 I’m interested in to Develop applications with new technologies 
 - 🌱 I’m currently learning developing ,Testing with Java and Python Frameworks
 - 📫 How to reach me send message on basicgamers11@gmail.com
